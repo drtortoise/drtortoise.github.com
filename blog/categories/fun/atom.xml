@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://drtortoise.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: fun | My Octopress Blog]]></title>
+  <link href="http://drtortoise.github.com/blog/categories/fun/atom.xml" rel="self"/>
   <link href="http://drtortoise.github.com/"/>
   <updated>2012-10-30T17:44:54+00:00</updated>
   <id>http://drtortoise.github.com/</id>
@@ -26,7 +26,7 @@
 
 <p>My first task was finding what words to illustrate. I certainly had fun coming up with possibilities. If anything, the problem was choosing what to illustrate for each letter.</p>
 
-<p>For instance, for ‘<strong>B</strong>’, I could do George <strong>B</strong>oole, <strong>B</strong>oolean logic, Charles <strong>B</strong>abbage, Tim <strong>B</strong>erners-Lee and many more, I&#8217;m sure. Boolean logic is perhaps the most important with regards to computer science, but as an illustration in a children&#8217;s book perhaps not the most suitable. I could of course go with George Boole the person, and introduce him as the inventor or Boolean logic, still mentioning the concept but with more meat to colour. On the other hand Charles Babbage is also a very important figure in computing history. Then again I could possibly fit Babbage under another letter, under A for Analytical engine or under D for Difference engine. And as much as I love Tim Berners-Lee, I think I’ll save him for W.
+<p>For instance, for ‘<strong>B</strong>’, I could do George <strong>B</strong>oole, <strong>B</strong>oolean logic, Charles <strong>B</strong>abbage, Tim <strong>B</strong>erners-Lee and many more, I'm sure. Boolean logic is perhaps the most important with regards to computer science, but as an illustration in a children's book perhaps not the most suitable. I could of course go with George Boole the person, and introduce him as the inventor or Boolean logic, still mentioning the concept but with more meat to colour. On the other hand Charles Babbage is also a very important figure in computing history. Then again I could possibly fit Babbage under another letter, under A for Analytical engine or under D for Difference engine. And as much as I love Tim Berners-Lee, I think I’ll save him for W.
 I also thought of illustrating “bugs” for B. Children love colouring in animals (and insects), and I could sneak in a history lesson about how when computers used to be big machines that filled entire rooms sometimes bugs would be attracted by the light and trapped inside tubes or relays causing a malfunction, and how we still use the term “bug” today to describe a software
 failure. For a serious intro to computing I’d definitely go for Boolean, but as a children’s colouring book, bugs is more fun.</p>
 
@@ -78,15 +78,6 @@ failure. For a serious intro to computing I’d definitely go for Boolean, but a
 
 
 <p><img src="http://distilleryimage5.instagram.com/d0f0dc92229b11e2959322000a9e0b2a_7.jpg" title="O is for Octocat" alt="octocat rough drawing" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello, World!]]></title>
-    <link href="http://drtortoise.github.com/blog/2012/10/30/Hello_World/"/>
-    <updated>2012-10-30T10:54:00+00:00</updated>
-    <id>http://drtortoise.github.com/blog/2012/10/30/Hello_World</id>
-    <content type="html"><![CDATA[<p>This is just a test</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: fun | My Octopress Blog]]></title>
   <link href="http://drtortoise.github.com/blog/categories/fun/atom.xml" rel="self"/>
   <link href="http://drtortoise.github.com/"/>
-  <updated>2012-10-30T18:38:50+00:00</updated>
+  <updated>2012-10-31T09:07:27+00:00</updated>
   <id>http://drtortoise.github.com/</id>
   <author>
     <name><![CDATA[Linda Sandvik]]></name>
@@ -18,9 +18,12 @@
     <link href="http://drtortoise.github.com/blog/2012/10/30/c-is-for-computing/"/>
     <updated>2012-10-30T10:54:00+00:00</updated>
     <id>http://drtortoise.github.com/blog/2012/10/30/c-is-for-computing</id>
-    <content type="html"><![CDATA[<p>Last week I jokingly tweeted that someone ought to teach Michael Gove the difference between ICT and Computing.</p>
+    <content type="html"><![CDATA[<p>Last week I jokingly tweeted that someone ought to teach Michael Gove the difference between ICT and Computing. Also, this week I discovered Adafruit’s lovely <a href="http://www.adafruit.com/products/1000">“E is for Electronics” colouring book</a>. It's a wonderful colouring book for children, that sneaks in some geekyness into their vocabulary. This is their entry for <strong>D</strong>:</p>
 
-<p>Also, this week I discovered Adafruit’s lovely <a href="http://www.adafruit.com/products/1000">“E is for Electronics” colouring book</a>.</p>
+<blockquote><p>A <strong>diode</strong> lets electrons flow in only one direction. It works like a switch:
+when current is flowing one way, the switch is on, but when current tries
+to flow the other way, the switch turns off. <strong>Sir John Ambrose Fleming</strong> is
+best known for inventing the <strong>diode</strong>, originally called the kenotron.</p></blockquote>
 
 <p>Add a slightly stressed/tired/frustrated Linda on a Monday afternoon, and voila “C is for Computing” was born.</p>
 
